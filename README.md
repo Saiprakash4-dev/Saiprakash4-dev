@@ -1,16 +1,68 @@
-## Hi there 👋
+👋 Hi, I'm Sai Prakash
 
-<!--
-**Saiprakash4-dev/Saiprakash4-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | ⚙️ Full Stack Developer
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on Microservices & Cloud-native applications
+
+☕ Strong in Java, Spring Boot, REST APIs
+
+⚛️ Frontend experience with React & modern JavaScript
+
+🐳 Docker | Kubernetes | CI/CD | AWS
+
+🎯 Passionate about system design, scalability & clean architecture
+
+I enjoy building scalable systems, optimizing performance, and solving real-world engineering problems.
+
+🛠 Tech Stack
+
+Languages
+Java JavaScript TypeScript SQL
+
+Backend
+Spring Boot Node.js Microservices REST APIs
+
+Frontend
+React Redux Context API HTML CSS
+
+Cloud & DevOps
+AWS Docker Kubernetes Jenkins Terraform
+
+Databases
+PostgreSQL MySQL Oracle MongoDB
+
+📌 What I Focus On
+
+Designing scalable microservices
+
+Clean architecture & design patterns
+
+CI/CD pipeline automation
+
+Cloud deployments & containerization
+
+Performance optimization & monitoring
+
+📈 Current Goals
+
+Mastering System Design
+
+Deep diving into Distributed Systems
+
+Strengthening DSA & problem-solving
+
+Building production-grade side projects
+
+📫 Let's Connect
+
+📧 Email: Sai Prakash Tummala
+
+🌍 Open to exciting engineering opportunities
+
+⚡ Fun Fact
+
+I treat production bugs like IPL super overs — calm outside, intense debugging inside 😄
+
+🚀 “Build. Optimize. Scale. Repeat.”
