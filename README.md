@@ -33,28 +33,6 @@ AWS Docker Kubernetes Jenkins Terraform
 Databases
 PostgreSQL MySQL Oracle MongoDB
 
-📌 What I Focus On
-
-Designing scalable microservices
-
-Clean architecture & design patterns
-
-CI/CD pipeline automation
-
-Cloud deployments & containerization
-
-Performance optimization & monitoring
-
-📈 Current Goals
-
-Mastering System Design
-
-Deep diving into Distributed Systems
-
-Strengthening DSA & problem-solving
-
-Building production-grade side projects
-
 📫 Let's Connect
 
 📧 Email: Sai Prakash Tummala
